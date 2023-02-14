@@ -41,6 +41,7 @@ After you're finished please remove all the comments and instructions!
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
@@ -70,7 +71,15 @@ In this project, we have created a simple HTML and CSS page using linters and gi
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- Features -->
 
+### Key Features <a name="key-features"></a>
+
+- **First this project needs node and npm modules**
+- **Second this project was created using best coding practices**
+- **Third this project uses a MIT license**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
